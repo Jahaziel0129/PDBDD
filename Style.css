@@ -1,0 +1,43 @@
+* {
+
+margin: 0;
+padding: 0%;
+box-sizing: border-box;
+} 
+
+
+.form-register {
+
+
+width: 400px;
+background: rgb(172, 98, 0);
+padding: 30px;
+margin: auto;
+margin-top: 100px;
+border-radius: 4px;
+font-family: 'Times New Roman', Times, serif;
+color: ;
+}
+
+
+.controls {
+
+    width:100% ;
+    background: rgb(126, 34, 6);
+    padding: 10px;
+    border-radius: 4px;
+    margin-bottom: 15px;
+    border: 1px solid rgb(253, 1, 1);
+}
+
+.boton {
+
+width: 100%;
+background: rgb(11, 94, 0);
+border: none;
+padding: 12px;
+color: rgb(235, 252, 0);
+margin: 16px 0;
+font-size: 16px;
+
+}
